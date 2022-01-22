@@ -22,3 +22,15 @@ For more information about the inner workings you can read the comments I made i
 This repo is very good because you can replace the function in $.tsx with any login, and it is easily customizable and really demonstrates the power of phishing. Although you, github user, are probably technologically literate, and would NEVER EVER fall for a phishing link (although this mentality is probably bad to have since that's how people fall for this stuff), think about your classmates, or gaming mates.
 
 This is why we need to improve our security measures and educate end users to make sure that people don't fall for phishing scams.
+
+### How to build and run
+
+To build the project you have to run
+
+```npm run build```
+
+and
+
+```npm start```
+
+to start it
