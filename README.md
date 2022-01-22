@@ -32,5 +32,9 @@ To build the project you have to run
 and
 
 ```npm start```
-
+  
 to start it
+
+###Licence
+
+Distributed under the GPL 3.0 Licence check LICENCE for information
