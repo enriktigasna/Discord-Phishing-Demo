@@ -9,7 +9,15 @@ import {
 import type { MetaFunction } from "remix";
 
 export const meta: MetaFunction = () => {
-  return { title: "Discord" };
+  return { 
+    title: "Discord", 
+    "og:site_name" : "Discord Gift",
+    "og:title" : "Discord",
+    "og:description" :  "You have been given A 3 Month Nitro",
+    "og:type" : "Discord",
+    itemprop: "image",
+    "og:image" : "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Discord_Nitro_2560x1440_withlogo_2560x1440-944994658df3b04d0c4940be832da19e"
+};
 };
 
 export function links() {
